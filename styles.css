@@ -1,0 +1,109 @@
+.top-container {
+  background-color: lavenderblush;
+  padding: 100px;
+}
+
+#footer {
+  background-color: lavenderblush;
+  margin-top: 50px;
+  padding: 50px;
+}
+
+.resume-container {
+  padding: 100px;
+}
+
+.resume-text {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.headshot {
+  margin-left: 100px;
+}
+
+.container {
+  padding-left: 150px;
+} 
+
+
+.title-text {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.project-title {
+  position: absolute;
+  padding-left: 530px;
+  margin-top margin-bottom: 100px
+}
+
+.aboutme-title {
+  text-align: center; 
+  width: 100%; 
+  display: flex;
+  justify-content: center; 
+}
+
+
+.project-container {
+  padding-left: 200px;
+}
+
+h3 {
+  font-size: 1.5rem !important;
+}
+
+
+
+.carousel {
+  max-width: 600px; 
+  max-height: 400px; 
+  margin: auto;
+  overflow: hidden; 
+}
+
+.carousel img {
+  width: 100%;
+  height: auto; 
+  object-fit: cover; 
+}
+
+.name {
+  font-family: "Sacramento", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 75px;
+  color: #56021F;
+}
+
+.less {
+  color: #D17D98;
+}
+
+.nunito {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: #D17D98;
+}
+
+.libre {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.maroon {
+  color: #7D1C4A;
+}
+
+.pink {
+  color: #D17D98;
+}
+
+body {
+  background-color: #F2F9FF;
+}
